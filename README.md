@@ -284,16 +284,6 @@ Special thanks to:
 
 ---
 
-# 📬 Contact
-
-## Omar Tamer Elazab Melegy
-
-💼 AI & NLP Enthusiast  
-📧 Add your email here  
-🔗 Add your LinkedIn here  
-💻 Add your GitHub here
-
----
 
 # ⭐ Final Note
 
